@@ -1,1 +1,1 @@
-export { default as PButton } from './src/components/PButton.stories'
+export { default as PButton } from './src/components/PButton.vue'
