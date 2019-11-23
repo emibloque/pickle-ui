@@ -28,7 +28,7 @@ export default {
   border-radius: $border-radius;
 
 
-  width: 100%;
+  // width: 100%;
   text-transform: uppercase;
   border: none;
   cursor: pointer;
